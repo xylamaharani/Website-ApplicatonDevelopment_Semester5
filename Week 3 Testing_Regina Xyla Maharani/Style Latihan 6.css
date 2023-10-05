@@ -1,0 +1,11 @@
+body{
+    background-color: lightblue;
+    background-image: url(logo\ replastik.png);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+}
